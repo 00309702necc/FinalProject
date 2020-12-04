@@ -1,0 +1,14 @@
+Andrew Caron-DiPietro #00309702- Programming for IT
+
+To-Do Steps
+
+1. Install python to pc
+2. Configure the project folder 
+	2a.Add the file database.txt
+3. Ask user input for username and pass
+	3a. Store values as strings
+4. Use user input to check for authentification on the system.
+	4a. Set up output error message if user is not in system.
+	4b. Set up encyrption system to encrypt user passwords
+5.Add our main file  "login.py" to the project folder.
+6.Run with "python login.py"
