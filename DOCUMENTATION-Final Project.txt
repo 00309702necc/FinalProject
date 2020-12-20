@@ -1,0 +1,16 @@
+Andrew Caron-DiPietro
+Programming for IT- Final Project
+12/20/20
+
+Additonal Documentation for Final Project:
+
+Instructions: Make sure the "database.txt" file is in the
+project folder. Then, just run like normal.
+
+Dependencies: Tkinter, os , hashlib , re .
+
+Future Work: I would probably try and make the TKinter 
+interface a bit more modern or I would maybe try a different
+graphical UI library all together if I had more time. I want
+to learn more about designing the UI and whatnot because it 
+was interesting to learn about TKinter.
